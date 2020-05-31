@@ -1,0 +1,7 @@
+name: Triva
+version: 1.1
+api-version: 1.15
+main: com.forge.triva.TriviaStart
+author: Gravition
+prefix: Triva
+
